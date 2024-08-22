@@ -1,4 +1,4 @@
-# New socket server
+# server program for socket programming.
 
 import socket as Socket
 import threading as Threading
